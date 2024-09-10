@@ -1,0 +1,3 @@
+package com.luischore.trackermovieapp.model.remote.datasource
+
+interface MovieServiceRemoteDataSource
